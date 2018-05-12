@@ -11,4 +11,6 @@ integration test clue feature
 implimeted new feature
 changes integrated
 ready to send UAT
+UAT approved the changes 
+ready to merge with master
 
